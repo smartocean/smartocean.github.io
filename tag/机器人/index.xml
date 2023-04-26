@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>机器人 | Academic</title>
-    <link>https://example.com/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
-      <atom:link href="https://example.com/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <title>机器人 | 智慧海洋实验室</title>
+    <link>https://smartocean.github.io/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <atom:link href="https://smartocean.github.io/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>机器人</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 16:32:43 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Apr 2023 16:32:43 +0800</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smartocean.github.io/media/icon_hu6833a01f336ec596d9b42e0f341d101a_74137_512x512_fill_lanczos_center_3.png</url>
       <title>机器人</title>
-      <link>https://example.com/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <link>https://smartocean.github.io/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
     </image>
     
     <item>
       <title>MasterBall | 大师球双形态机器人</title>
-      <link>https://example.com/project/masterball-robot/</link>
+      <link>https://smartocean.github.io/project/masterball-robot/</link>
       <pubDate>Tue, 25 Apr 2023 16:32:43 +0800</pubDate>
-      <guid>https://example.com/project/masterball-robot/</guid>
+      <guid>https://smartocean.github.io/project/masterball-robot/</guid>
       <description>&lt;h2 id=&#34;研究背景&#34;&gt;研究背景&lt;/h2&gt;
 &lt;p&gt;随着智能机器人行业的快速发展，地面作业对机器人的依赖也越来越高。面对实际情况中的复杂地形，球-腿双形态机器人兼具球形机器人快速运动和多足机器人高避障能力的特点，具有更强的适应能力，是突破当前单形态机器人作业局限的重要发展方向。&lt;/p&gt;
 &lt;h2 id=&#34;产品概述&#34;&gt;产品概述&lt;/h2&gt;

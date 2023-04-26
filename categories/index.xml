@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Academic</title>
-    <link>https://example.com/categories/</link>
-      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | 智慧海洋实验室</title>
+    <link>https://smartocean.github.io/categories/</link>
+      <atom:link href="https://smartocean.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smartocean.github.io/media/icon_hu6833a01f336ec596d9b42e0f341d101a_74137_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://example.com/categories/</link>
+      <link>https://smartocean.github.io/categories/</link>
     </image>
     
   </channel>
